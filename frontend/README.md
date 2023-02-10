@@ -1,4 +1,4 @@
-# lovechasing
+# frontend
 
 ## Project setup
 ```
